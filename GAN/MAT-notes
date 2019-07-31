@@ -1,0 +1,15 @@
+
+https://stackoverflow.com/questions/40632486/dot-exe-not-found-in-path-pydot-on-python-windows-7
+
+D:/ProgramData/Anaconda3/pkgs/graphviz-2.38-hfd603c8_2/Library/bin/graphviz
+
+https://github.com/keras-team/keras/issues/12538
+
+دستور
+#    import pydot # M.Amintoosi changed
+    import pydot_ng as pydot 
+از فایل 
+vis_utils
+در پوشه 
+D:\ProgramData\Anaconda3\envs\tf_gpu\Lib\site-packages\keras\utils
+را هم عوض کردم
